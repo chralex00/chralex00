@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **EY (Ernst & Young)**
 
-- 🌱 I’m currently learning **Dart & Flutter**
+- 🌱 I’m currently learning **Computer Engineering, Guglielmo Marconi University**
 
 - 👨‍💻 All of my projects are available at [https://github.com/chralex00](https://github.com/chralex00)
 
